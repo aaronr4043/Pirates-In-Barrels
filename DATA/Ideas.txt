@@ -1,0 +1,43 @@
+Tower Defense Game Aaron Amber and Paul
+
+Add to this as you see fit, this is only provisional
+
+Enemy requirements - Extends Game Object
+	- Speed
+	- Hp - Bar
+	- Strength
+	- Value
+	- Attack Type?
+	- Sound
+	- Splosions on death
+
+Tower requirements - Extends Game Object
+	- Reload time
+	- Tier - Upgrade Price - Repair Price 
+	- Player X and Y Co-ords (For player controlled attacks)
+	- Attack Type
+	- Sound
+	- Spolsions on death?
+
+River Attack Requirements - Extends game Object
+	- Speed
+	- Strength
+	- Hp - Bar ?
+	- Radius Damage? Explosions
+	- Sound
+
+Attack Requirements - Extends Game Object
+	- Speed 
+	- Strength
+	- Sound
+	- Spolsion on hit?
+
+Flowers
+	- Look the same
+	- Differant colours
+	- Pretty
+	
+Gameobject 
+	- Speed 
+	- X, Y, Z
+	- Hp
